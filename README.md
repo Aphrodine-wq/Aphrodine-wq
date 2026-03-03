@@ -1,8 +1,6 @@
 # Hey, I'm Walt
 
-                                                                                                                        
-
-
+                                                         
 **Full-stack developer & systems programmer** building AI tools, games, and developer infrastructure.
 
 I write code across the stack -- from macOS desktop apps in Swift to game engines in Rust to compilers in Python. Most of my work focuses on developer tools that integrate deeply with AI, and on building things that are fast, correct, and fun to use.
