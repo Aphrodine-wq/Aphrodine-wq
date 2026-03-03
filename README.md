@@ -1,4 +1,4 @@
-# Hey, I'm James Walton
+# Hey, I'm Walt
 
 **Full-stack developer & systems programmer** building AI tools, games, and developer infrastructure.
 
