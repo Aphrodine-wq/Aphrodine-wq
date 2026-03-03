@@ -1,5 +1,31 @@
 # Hey, I'm Walt
 
+                                                                                                                        
+                                                                                                                        
+        GGGGGGGGGGGGG                 RRRRRRRRRRRRRRRRR                                                                 
+     GGG::::::::::::G                 R::::::::::::::::R                                                                
+   GG:::::::::::::::G                 R::::::RRRRRR:::::R                                                               
+  G:::::GGGGGGGG::::G                 RR:::::R     R:::::R                                                              
+ G:::::G       GGGGGG                   R::::R     R:::::Ruuuuuu    uuuuuu     mmmmmmm    mmmmmmm   ppppp   ppppppppp   
+G:::::G                                 R::::R     R:::::Ru::::u    u::::u   mm:::::::m  m:::::::mm p::::ppp:::::::::p  
+G:::::G                                 R::::RRRRRR:::::R u::::u    u::::u  m::::::::::mm::::::::::mp:::::::::::::::::p 
+G:::::G    GGGGGGGGGG ---------------   R:::::::::::::RR  u::::u    u::::u  m::::::::::::::::::::::mpp::::::ppppp::::::p
+G:::::G    G::::::::G -:::::::::::::-   R::::RRRRRR:::::R u::::u    u::::u  m:::::mmm::::::mmm:::::m p:::::p     p:::::p
+G:::::G    GGGGG::::G ---------------   R::::R     R:::::Ru::::u    u::::u  m::::m   m::::m   m::::m p:::::p     p:::::p
+G:::::G        G::::G                   R::::R     R:::::Ru::::u    u::::u  m::::m   m::::m   m::::m p:::::p     p:::::p
+ G:::::G       G::::G                   R::::R     R:::::Ru:::::uuuu:::::u  m::::m   m::::m   m::::m p:::::p    p::::::p
+  G:::::GGGGGGGG::::G                 RR:::::R     R:::::Ru:::::::::::::::uum::::m   m::::m   m::::m p:::::ppppp:::::::p
+   GG:::::::::::::::G                 R::::::R     R:::::R u:::::::::::::::um::::m   m::::m   m::::m p::::::::::::::::p 
+     GGG::::::GGG:::G                 R::::::R     R:::::R  uu::::::::uu:::um::::m   m::::m   m::::m p::::::::::::::pp  
+        GGGGGG   GGGG                 RRRRRRRR     RRRRRRR    uuuuuuuu  uuuummmmmm   mmmmmm   mmmmmm p::::::pppppppp    
+                                                                                                     p:::::p            
+                                                                                                     p:::::p            
+                                                                                                    p:::::::p           
+                                                                                                    p:::::::p           
+                                                                                                    p:::::::p           
+                                                                                                    ppppppppp           
+                                                                                                                        
+
 **Full-stack developer & systems programmer** building AI tools, games, and developer infrastructure.
 
 I write code across the stack -- from macOS desktop apps in Swift to game engines in Rust to compilers in Python. Most of my work focuses on developer tools that integrate deeply with AI, and on building things that are fast, correct, and fun to use.
