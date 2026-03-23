@@ -1,179 +1,65 @@
-```
+# James Walton
 
-  ███████╗████████╗██████╗  █████╗ ████████╗ █████╗
-  ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗
-  ███████╗   ██║   ██████╔╝███████║   ██║   ███████║
-  ╚════██║   ██║   ██╔══██╗██╔══██║   ██║   ██╔══██║
-  ███████║   ██║   ██║  ██║██║  ██║   ██║   ██║  ██║
-  ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-  ███████╗ ██████╗ ███████╗████████╗██╗    ██╗ █████╗ ██████╗ ███████╗
-  ██╔════╝██╔═══██╗██╔════╝╚══██╔══╝██║    ██║██╔══██╗██╔══██╗██╔════╝
-  ███████╗██║   ██║█████╗     ██║   ██║ █╗ ██║███████║██████╔╝█████╗
-  ╚════██║██║   ██║██╔══╝     ██║   ██║███╗██║██╔══██║██╔══██╗██╔══╝
-  ███████║╚██████╔╝██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
-  ╚══════╝ ╚═════╝ ╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-   ██████╗ ██████╗  ██████╗ ██╗   ██╗██████╗
-  ██╔════╝ ██╔══██╗██╔═══██╗██║   ██║██╔══██╗
-  ██║  ███╗██████╔╝██║   ██║██║   ██║██████╔╝
-  ██║   ██║██╔══██╗██║   ██║██║   ██║██╔═══╝
-  ╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝██║
-   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝
-```
+Construction estimator turned software developer. Self-taught with AI as a build partner. 7 months in, shipping real products.
 
-> **We build tools that build things.**
-
-```
-  ┌──────────────────────────────────────────────────────────────────┐
-  │  James Walton                          Mason Walton             │
-  │  Systems · AI · Infrastructure         ░░░░░░░░░░░░░░░░░░░░░░░ │
-  │                                                                 │
-  │  Swift · Rust · Python · TypeScript    Strata Software Group    │
-  └──────────────────────────────────────────────────────────────────┘
-```
+I come from construction — estimating jobs, managing crews, understanding how physical things get built. Now I build software the same way: scope it, plan it, execute it, ship it.
 
 ---
 
-## What We Ship
+## What I Build
 
-We build developer tools, AI infrastructure, and production software. Everything below is our own — designed, architected, and built in-house.
+### Products
 
-```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                         FLAGSHIP                                ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║                                                                 ║
-  ║   G-RUMP          AI Coding Agent for macOS                     ║
-  ║   ──────          54K lines of Swift · 100+ tools · MCP         ║
-  ║                   Multi-model · Agent modes · Skills system     ║
-  ║                                                                 ║
-  ║   AEON            AI-Native Programming Language & Compiler     ║
-  ║   ────            85K lines of Python · 20+ language adapters   ║
-  ║                   Formal verification · Z3 SMT solver           ║
-  ║                                                                 ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║                         PRODUCTS                                ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║                                                                 ║
-  ║   FAIRTRADEWORKER  Home services marketplace                    ║
-  ║   ───────────────  No lead fees · Subscription model            ║
-  ║                    Pro-first · Fair pricing                     ║
-  ║                                                                 ║
-  ║   DRIFTLANDS       Survival crafting game                       ║
-  ║   ──────────       Bevy/Rust ECS · Procedural worlds            ║
-  ║                    Combat · Crafting · Dungeons                 ║
-  ║                                                                 ║
-  ╚══════════════════════════════════════════════════════════════════╝
-```
+**[FairTradeWorker](https://github.com/Aphrodine-wq/FairTradeWorker)** — Two-sided construction marketplace. Homeowners post jobs, contractors bid. No lead fees, flat subscription, QuickBooks-native payments. Elixir real-time backend for live bidding and chat. React Native mobile app. Custom AI estimation model trained on real company data.
 
-### [G-Rump](https://github.com/Aphrodine-wq/G-Rump)
+**[MHP Estimate](https://github.com/Aphrodine-wq/mhp-web)** — Construction estimation platform built for a real client (MHP Construction, Oxford MS). Deployed on Vercel. First paying customer for the white-label estimation system.
 
-Native macOS AI coding agent. Multi-provider support (Anthropic, OpenAI, OpenRouter, Ollama, CoreML), 100+ local tools (file ops, shell, git, Docker, browser, cloud deploy, Apple-native APIs), full MCP client/server with 58 pre-configured servers, 6 agent modes, 40+ bundled skills, ambient code awareness, and LSP integration. Distributed via DMG with Developer ID signing and notarization.
+**[Driftlands](https://github.com/Aphrodine-wq/Driftlands)** — Survival crafting game in Rust/Bevy. Procedural worlds, combat, crafting, farming, building, dungeons, NPCs, day/night cycle. Targeting Steam Early Access.
 
-### [AEON](https://github.com/Aphrodine-wq/AEON)
+### Tools
 
-AI-native programming language and compiler with formal verification. 20+ language adapters (Python, Java, JavaScript, TypeScript, Go, Rust, C/C++, and more), Z3 SMT solver integration, algebraic effect system, and language design built for the age where both humans and AI write code together. If it compiles, it is correct by proof.
+**[AI Knows ME](https://github.com/Aphrodine-wq/ai-knows-me)** — Open source screen intelligence. Watches your screen (OCR, no screenshots), builds a searchable knowledge graph, syncs to Obsidian, exposes a REST API for any AI agent. 30K LOC, 58 MCP tools, plugin system, encrypted storage. What Microsoft Recall promised but couldn't ship.
 
-### [FairTradeWorker](https://github.com/Aphrodine-wq/FairTradeWorker)
+**[AEON](https://github.com/Aphrodine-wq/AEON)** — Formal verification engine. Multi-language static analysis (Python, JS/TS, Go, Rust, Java, C/C++, and more). Catches division-by-zero, injection, race conditions, and logic bugs that tests miss. Z3 SMT solver integration.
 
-Home services marketplace that eliminates exploitative lead fees. Flat monthly subscription gives pros business tools, qualified matches, and a compounding reputation. Built to fix the broken incentive structure of Angi, Thumbtack, and HomeAdvisor.
+**[ConstructionAI](https://github.com/Aphrodine-wq/ConstructionAI)** — Fine-tuned Llama 3.1 8B for construction cost estimation. 5,200+ training examples from real project data. Runs locally via Ollama, production via RunPod Serverless.
 
-### [Driftlands](https://github.com/Aphrodine-wq/Driftlands)
+**[G-Rump](https://github.com/Aphrodine-wq/G-Rump)** — Native macOS AI coding agent. 54K lines of Swift. Multi-provider (Anthropic, OpenAI, Ollama), 100+ local tools, MCP client/server, 6 agent modes.
 
-Survival crafting game built with Bevy/Rust — procedural world generation, real-time combat, crafting, farming, building, day/night cycle, weather and seasons, procedural dungeons, NPCs, save/load, and tech tree progression. Pure Rust with the Bevy 0.15 ECS engine.
+### Ecosystem
+
+The projects connect. ConstructionAI powers FairTradeWorker's estimation. FairEstimator is the white-label template that MHP Estimate runs on. AI Knows ME feeds context into every Claude Code session. AEON verifies all of them before release.
 
 ---
 
-## The Walt Ecosystem
+## The Stack
 
-Our internal toolchain. 68 custom components that turn Claude Code into a domain-specific builder across every discipline we work in.
+I pick whatever fits the problem.
 
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                                                                  │
-  │    ██╗    ██╗ █████╗ ██╗  ████████╗                              │
-  │    ██║    ██║██╔══██╗██║  ╚══██╔══╝                              │
-  │    ██║ █╗ ██║███████║██║     ██║                                  │
-  │    ██║███╗██║██╔══██║██║     ██║                                  │
-  │    ╚███╔███╔╝██║  ██║███████╗██║                                  │
-  │     ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝                                  │
-  │                                                                  │
-  │    31 /walt skills  ·  27 /gsd commands  ·  8 visual scripts     │
-  │    2 standalone skills  ·  MONOLITH tmux theme                   │
-  │                                                                  │
-  └─────────────────────────────────────────────────────────────────┘
-```
-
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                      SYSTEM TOPOLOGY                             │
-  │                                                                  │
-  │   ┌─────────────┐  ┌──────────────┐  ┌───────────────┐          │
-  │   │  20 Domain   │  │  7 Action    │  │ 4 Orchestr.   │          │
-  │   │  Skills      │◄─┤  Skills      │◄─┤ Skills        │          │
-  │   │              │  │              │  │               │          │
-  │   │  Build stuff │  │  Do stuff    │  │ Chain stuff   │          │
-  │   └──────┬───────┘  └──────┬───────┘  └───────┬───────┘          │
-  │          │                 │                  │                  │
-  │          └────────┬────────┴──────────────────┘                  │
-  │                   ▼                                              │
-  │   ┌──────────────────────────────┐  ┌─────────────────┐          │
-  │   │  GSD Workflow System         │  │ Visual Layer    │          │
-  │   │  Project management layer    │  │ tmux MONOLITH   │          │
-  │   └──────────────────────────────┘  └─────────────────┘          │
-  └─────────────────────────────────────────────────────────────────┘
-```
-
-**Domain Skills** — rust-app · macos-app · ios-app · web-and-fullstack · saas · api-forge · game-dev · agent · ai-and-ml · databases-and-storage · systems-programming · networking-and-protocols · compilers-and-languages · hardware-and-iot · rendering-and-graphics · creative-and-generative · simulation-and-science · security · money · devops-and-tooling
-
-**Action Skills** — analyze · clone · 1000x · ship · finish · nuke · hackathon
-
-**Orchestration** — team (parallel agents) · blitz (sequential chain) · godmode (full pipeline) · turbo (skip gates, go fast)
-
-```
-  ┌─ /walt:blitz ─────────────────────────────────────────────┐
-  │  Skill A ──► Skill B ──► Skill C ──► Done                 │
-  │  Single agent, linear handoff                              │
-  └────────────────────────────────────────────────────────────┘
-
-  ┌─ /walt:team ──────────────────────────────────────────────┐
-  │  ┌─ Agent A (Architect) ──────────┐                        │
-  │  ├─ Agent B (Builder) ────────────┤──► Integrate ──► Done  │
-  │  ├─ Agent C (Ops) ────────────────┤                        │
-  │  └─ Agent D (Intelligence) ───────┘                        │
-  │  True parallelism, lead integrates                         │
-  └────────────────────────────────────────────────────────────┘
-
-  ┌─ /walt:godmode ───────────────────────────────────────────┐
-  │  analyze → design → build → harden → ship                 │
-  │  Sequential phases, subagents per phase                    │
-  └────────────────────────────────────────────────────────────┘
-```
+| Language | Where I Use It |
+|----------|---------------|
+| **TypeScript/React** | FairTradeWorker, MHP Estimate, FairEstimator |
+| **Python** | ConstructionAI, AEON, AI Knows ME |
+| **Rust** | Driftlands (Bevy ECS), G-Rump Language compiler |
+| **Elixir/Phoenix** | FTW Realtime (WebSocket bidding, chat) |
+| **Swift** | G-Rump (native macOS) |
+| **React Native** | FTW Mobile (Expo) |
 
 ---
 
-## Tech
+## How I Work
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bevy](https://img.shields.io/badge/Bevy-232326?style=flat-square&logo=bevy&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
+I build with AI. Claude is my primary build partner — not for autocomplete, but as a genuine collaborator on architecture, implementation, and review. I also use Codex, Gemini, and MiniMax when a problem benefits from multiple perspectives.
+
+This isn't about replacing skill with AI. It's about compounding it. The construction background gives me project management instincts, cost awareness, and a bias toward shipping. The AI gives me reach across stacks I couldn't have learned sequentially.
+
+40 projects. 1.6 million lines of code. 7 languages. One fine-tuned model. All in 7 months. Not because I'm fast — because the tools have changed what one person can do.
 
 ---
 
-```
-  ┌──────────────────────────────────────────────────────────────────┐
-  │                                                                   │
-  │   "There is no palette. There is only the void                    │
-  │    and what emerges from it."                                     │
-  │                                                    — MONOLITH     │
-  │                                                                   │
-  └──────────────────────────────────────────────────────────────────┘
-```
+## About
 
-<p align="center">
-  <b>Strata Software Group</b><br>
-  <sub>Building under the void.</sub>
-</p>
+I run **Strata Software Group** out of Mississippi. We build custom software, AI tools, and construction technology.
+
+If you're hiring, building in construction tech, or want to talk about what solo devs can do with AI — reach out.
+
