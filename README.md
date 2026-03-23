@@ -1,152 +1,132 @@
 ```
-
-  ███████╗████████╗██████╗  █████╗ ████████╗ █████╗
-  ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗
-  ███████╗   ██║   ██████╔╝███████║   ██║   ███████║
-  ╚════██║   ██║   ██╔══██╗██╔══██║   ██║   ██╔══██║
-  ███████║   ██║   ██║  ██║██║  ██║   ██║   ██║  ██║
-  ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-  ███████╗ ██████╗ ███████╗████████╗██╗    ██╗ █████╗ ██████╗ ███████╗
-  ██╔════╝██╔═══██╗██╔════╝╚══██╔══╝██║    ██║██╔══██╗██╔══██╗██╔════╝
-  ███████╗██║   ██║█████╗     ██║   ██║ █╗ ██║███████║██████╔╝█████╗
-  ╚════██║██║   ██║██╔══╝     ██║   ██║███╗██║██╔══██║██╔══██╗██╔══╝
-  ███████║╚██████╔╝██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
-  ╚══════╝ ╚═════╝ ╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-   ██████╗ ██████╗  ██████╗ ██╗   ██╗██████╗
-  ██╔════╝ ██╔══██╗██╔═══██╗██║   ██║██╔══██╗
-  ██║  ███╗██████╔╝██║   ██║██║   ██║██████╔╝
-  ██║   ██║██╔══██╗██║   ██║██║   ██║██╔═══╝
-  ╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝██║
-   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝
+     ___          ___          ___          ___          ___
+    /\  \        /\  \        /\__\        /\  \        /\  \
+    \:\  \      /::\  \      /::|  |      /::\  \      /::\  \
+  __ \:\  \    /:/\:\  \    /:|:|  |      \:\:\  \    /\:\:\  \
+ /\_\ \:\  \  /::\~\:\  \  /:/|:|__|__   _____\:\  \  \:\:\:\  \
+ \/__/\:\__\ /:/\:\ \:\__\/:/ |::::\__\ /::::::::\__\  \:\:\:\__\
+      \:\__\ \/__\:\/:/  /\/__/~~/:/  / \:\~~\~~\/__/   \:\:\/__/
+       \/__/      \::/  /       /:/  /   \:\  \          \:\/__/
+                  /:/  /       /:/  /     \:\  \          \/__/
+                 /:/  /       /:/  /       \:\__\
+                 \/__/        \/__/         \/__/
 ```
 
-> **We build tools that build things.**
+> **James Walton** — Construction estimator turned developer. 7 months. 40 projects. 1.6M lines. AI as a build partner.
+
+---
 
 ```
-  ┌──────────────────────────────────────────────────────────────────┐
-  │  James Walton                                                    │
-  │  Construction estimator turned developer                         │
-  │  Self-taught · 7 months · AI as a build partner                  │
-  │                                                                  │
-  │  Python · TypeScript · Rust · Elixir · Swift                     │
-  │  40 projects · 1.6M lines · 7 languages · 1 fine-tuned model    │
-  │                                                                  │
-  │  Strata Software Group · Mississippi                             │
-  └──────────────────────────────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────┐
+  │                                                  │
+  │   I came from job sites, not computer science.   │
+  │   Estimating costs, managing crews, building     │
+  │   things that stand up. Now I write software     │
+  │   the same way — scope it, plan it, ship it.     │
+  │                                                  │
+  │   The AI didn't replace the work.                │
+  │   It multiplied what one person can reach.       │
+  │                                                  │
+  └─────────────────────────────────────────────────┘
 ```
 
 ---
 
-## What I Ship
-
-I come from construction — estimating jobs, managing crews, understanding how physical things get built. Now I build software the same way: scope it, plan it, execute it, ship it.
+## The Work
 
 ```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                         PRODUCTS                                ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║                                                                 ║
-  ║   FAIRTRADEWORKER    Two-sided construction marketplace          ║
-  ║   ───────────────    Homeowners post · Contractors bid           ║
-  ║                      Elixir realtime · React Native mobile      ║
-  ║                      QuickBooks-native · Custom AI estimation   ║
-  ║                                                                 ║
-  ║   MHP ESTIMATE       Client estimation platform                  ║
-  ║   ────────────       Built for MHP Construction (Oxford, MS)    ║
-  ║                      First paying customer · Deployed on Vercel ║
-  ║                                                                 ║
-  ║   DRIFTLANDS         Survival crafting game                      ║
-  ║   ──────────         Rust/Bevy ECS · Procedural worlds          ║
-  ║                      Combat · Crafting · Dungeons               ║
-  ║                                                                 ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║                          TOOLS                                  ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║                                                                 ║
-  ║   AI KNOWS ME        Screen intelligence (open source)           ║
-  ║   ───────────        OCR capture · Knowledge graph · REST API   ║
-  ║                      Encrypted · Plugin system · 58 MCP tools   ║
-  ║                                                                 ║
-  ║   AEON               Formal verification engine                  ║
-  ║   ────               Multi-language static analysis · Z3 SMT   ║
-  ║                      Catches what tests and linters miss        ║
-  ║                                                                 ║
-  ║   CONSTRUCTIONAI     Fine-tuned Llama 3.1 8B                     ║
-  ║   ──────────────     5,200+ real training examples              ║
-  ║                      Construction cost estimation               ║
-  ║                                                                 ║
-  ║   G-RUMP             macOS AI coding agent                       ║
-  ║   ──────             54K lines Swift · Multi-provider           ║
-  ║                      100+ tools · MCP · 6 agent modes           ║
-  ║                                                                 ║
-  ╚══════════════════════════════════════════════════════════════════╝
+                    P R O D U C T S
+  ─────────────────────────────────────────────────
+
+   FAIRTRADEWORKER          Construction marketplace
+   ░░░░░░░░░░░░░░░░░░░░    Homeowners post, contractors bid
+   Next.js + Elixir         No lead fees. Flat subscription.
+   React Native mobile      QuickBooks-native payments.
+   Custom AI estimation     Real-time bidding via WebSockets.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+   MHP ESTIMATE             Client delivery
+   ░░░░░░░░░░░░░            Built for MHP Construction
+   Next.js + Electron       Oxford, Mississippi
+   Deployed on Vercel       First real customer.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+   DRIFTLANDS               Survival crafting game
+   ░░░░░░░░░░░              Rust + Bevy 0.15 ECS
+   Procedural worlds        Combat, crafting, dungeons
+   Targeting Steam EA       20K+ lines of Rust
 ```
 
-### How the pieces connect
-
 ```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                                                                  │
-  │   ConstructionAI ──── powers ────► FairTradeWorker               │
-  │        │                               │                         │
-  │        │                          FTW Realtime (Elixir)          │
-  │        │                          FTW Mobile (React Native)      │
-  │        │                               │                         │
-  │   FairEstimator ──── template ───► MHP Estimate (client)         │
-  │                                                                  │
-  │   AI Knows ME ─────── context ───► Every Claude Code session     │
-  │                                                                  │
-  │   AEON ────────────── verifies ──► All of the above              │
-  │                                                                  │
-  └─────────────────────────────────────────────────────────────────┘
+                      T O O L S
+  ─────────────────────────────────────────────────
+
+   AI KNOWS ME              Screen intelligence
+   ░░░░░░░░░░░░░░░░░░░░    Open source. 30K LOC.
+   Python + SQLite          OCR capture, knowledge graph
+   REST API + MCP           Encrypted. Plugin system.
+   58 tools                 What Recall couldn't ship.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+   AEON                     Formal verification
+   ░░░░░░░░░░░░░░░░        Multi-language static analysis
+   Python + Z3 SMT          20+ language adapters
+   85K+ lines               Catches what tests miss.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+   CONSTRUCTIONAI           Domain LLM
+   ░░░░░░░░░░░░░░          Fine-tuned Llama 3.1 8B
+   5,200+ examples          Real project data
+   Ollama + RunPod          Construction estimation
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+   G-RUMP                   AI coding agent
+   ░░░░░░░░░░░░░░░░░░      Native macOS, 54K Swift
+   Multi-provider           100+ tools, MCP, 6 modes
 ```
 
 ---
 
-## Featured Repos
+## How It Connects
 
-### [AI Knows ME](https://github.com/Aphrodine-wq/ai-knows-me)
-Open source screen intelligence. Watches your screen (OCR text only — no screenshots stored), builds a searchable knowledge graph, syncs to Obsidian, and exposes a REST API so any AI agent can query your screen memory. Encrypted at rest with OS keychain. What Microsoft Recall promised but couldn't ship. What Rewind.ai abandoned. This one is running.
+```
+                ConstructionAI
+                    │
+                    │ powers estimation
+                    ▼
+   ┌────────── FairTradeWorker ──────────┐
+   │                │                     │
+   │          FTW Realtime          FTW Mobile
+   │           (Elixir)          (React Native)
+   │
+   │  template
+   ▼
+  FairEstimator ──────► MHP Estimate
+                         (client)
 
-### [FairTradeWorker](https://github.com/Aphrodine-wq/FairTradeWorker)
-Construction marketplace that eliminates exploitative lead fees. Flat monthly subscription gives pros tools, qualified matches, and a compounding reputation. Real-time bidding and chat via Elixir/Phoenix. AI estimation via a custom fine-tuned model trained on real project data.
 
-### [AEON](https://github.com/Aphrodine-wq/AEON)
-Multi-language formal verification engine. 20+ language adapters, Z3 SMT solver, symbolic execution, taint analysis. Catches division-by-zero, injection, race conditions, and logic bugs that tests miss. Runs across all my projects as a pre-release gate.
+  AI Knows ME ─── context ───► every session I open
 
-### [Driftlands](https://github.com/Aphrodine-wq/Driftlands)
-Survival crafting game in Rust/Bevy 0.15. Procedural world generation, real-time combat, crafting, farming, building, dungeons, NPCs, weather, day/night cycle. Targeting Steam Early Access.
+  AEON ─────────── verifies ─► all of the above
+```
 
 ---
 
-## How I Work
+## The Stack
 
 ```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                                                                  │
-  │    ██╗    ██╗ █████╗ ██╗  ████████╗                              │
-  │    ██║    ██║██╔══██╗██║  ╚══██╔══╝                              │
-  │    ██║ █╗ ██║███████║██║     ██║                                  │
-  │    ██║███╗██║██╔══██║██║     ██║                                  │
-  │    ╚███╔███╔╝██║  ██║███████╗██║                                  │
-  │     ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝                                  │
-  │                                                                  │
-  │    68 custom skills  ·  27 workflow commands                      │
-  │    Quad-AI orchestration  ·  Overnight autonomous runner         │
-  │    Obsidian knowledge vault  ·  Screen memory integration        │
-  │                                                                  │
-  └─────────────────────────────────────────────────────────────────┘
+  Python         ████████████████████████  AI, tools, verification
+  TypeScript     ██████████████████        Web, marketplace, mobile
+  Rust           ████████████              Game engine, compilers
+  Elixir         ████████                  Real-time backend
+  Swift          ████████                  macOS native
+  React Native   ██████                    Mobile
 ```
-
-I build with AI as a native tool, not an afterthought. Claude is my primary build partner — architecture, implementation, review. Codex, Gemini, and MiniMax when a problem benefits from multiple perspectives.
-
-The construction background gives me project management instincts, cost awareness, and a bias toward shipping. The AI gives me reach across stacks I couldn't have learned sequentially.
-
-40 projects. 1.6 million lines. 7 months. Not because I'm fast — because the tools have changed what one person can do.
-
----
-
-## Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -159,17 +139,33 @@ The construction background gives me project management instincts, cost awarenes
 
 ---
 
+## How I Build
+
+I work with AI as a native tool. Claude is my primary build partner. Codex, Gemini, and MiniMax when a problem benefits from multiple perspectives. 68 custom skills that turn Claude Code into a domain-specific builder for whatever I'm working on.
+
+The construction background gives me project management instincts, cost awareness, and a bias toward shipping over perfecting. The AI gives me reach across stacks I couldn't have learned one at a time.
+
 ```
-  ┌──────────────────────────────────────────────────────────────────┐
-  │                                                                   │
-  │   "There is no palette. There is only the void                    │
-  │    and what emerges from it."                                     │
-  │                                                    — MONOLITH     │
-  │                                                                   │
-  └──────────────────────────────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────┐
+  │                                                  │
+  │   40 projects                                    │
+  │   1.6 million lines of code                      │
+  │   7 languages                                    │
+  │   1 fine-tuned model                             │
+  │   7 months                                       │
+  │                                                  │
+  │   Not because I'm fast.                          │
+  │   Because the tools changed                      │
+  │   what one person can do.                        │
+  │                                                  │
+  └─────────────────────────────────────────────────┘
 ```
+
+---
 
 <p align="center">
   <b>Strata Software Group</b><br>
-  <sub>Building under the void.</sub>
+  Mississippi<br>
+  <br>
+  <sub>If you're hiring, building in construction tech, or curious what solo devs can do with AI — reach out.</sub>
 </p>
