@@ -12,7 +12,7 @@
                  \/__/        \/__/         \/__/
 ```
 
-> **James Walton** — Construction estimator turned developer. 8 months. 35 projects. 3.6M lines. AI as a build partner.
+> **James Walton** — Construction estimator turned developer. 10 months. 35 projects. 3.6M lines. AI as a build partner.
 
 ---
 
@@ -43,6 +43,7 @@
    Next.js + Spring Boot    No lead fees. Flat subscription.
    React Native mobile      QuickBooks-native payments.
    Custom AI estimation     Real-time bidding via WebSockets.
+   Mississippi-first        iOS app in App Store review.
 
    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
@@ -154,7 +155,7 @@ The construction background gives me project management instincts, cost awarenes
   │   3.6 million lines of code                      │
   │   8 languages                                    │
   │   1 fine-tuned model (106K examples)             │
-  │   8 months                                       │
+  │   10 months                                      │
   │                                                  │
   │   Not because I'm fast.                          │
   │   Because the tools changed                      │
