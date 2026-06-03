@@ -32,64 +32,87 @@
 
 ---
 
-## The Work
+## Building Now
 
 ```
-                    P R O D U C T S
-  ─────────────────────────────────────────────────
+   TESSERA                  A programming language for AI agents
+   ░░░░░░░░░░░░░░░░░░░░    Write agents in .t.md files. The compiler
+   Python                   verifies them with AEON, persists their
+   Markdown-native          knowledge to a local fact store, and runs
+   AEON-verified            them on real LLM / LangChain / PyTorch
+   TSON wire format         backends. ~36% fewer tokens on the wire.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
    FAIRTRADEWORKER          Construction marketplace
-   ░░░░░░░░░░░░░░░░░░░░    Homeowners post, contractors bid
-   Next.js + Spring Boot    No lead fees. Flat subscription.
+   ░░░░░░░░░░░░░░░░░░░░    Homeowners post, contractors bid.
+   Next.js + Java/Spring    No lead fees. Flat subscription.
    React Native mobile      QuickBooks-native payments.
-   Custom AI estimation     Real-time bidding via WebSockets.
+   Custom AI estimation     Real-time bidding over WebSockets.
    Mississippi-first        iOS app in App Store review.
+```
+
+---
+
+## Products
+
+```
+   FAIRTRADEWORKER          Two-sided construction marketplace
+   ░░░░░░░░░░░░░░░░░░░░    Next.js web · React Native mobile
+                            Java/Spring backend · live material
+                            price index · operator dashboard.
 
    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
    MSHOMEPROS               Contractor platform
-   ░░░░░░░░░░░░░            Built for MHP Construction
-   Next.js + Electron       Oxford, Mississippi
-   Deployed on Vercel       First real customer.
-
-   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-
-   DRIFTLANDS               Survival crafting game
-   ░░░░░░░░░░░              Rust + Bevy 0.15 ECS
-   Procedural worlds        Combat, crafting, dungeons
-   Targeting Steam EA       27K lines of Rust
+   ░░░░░░░░░░░░░            Built for MHP Construction,
+   Next.js                  Oxford, Mississippi. First real
+   Deployed on Vercel       customer. Migrated off WordPress.
 ```
 
-```
-                      T O O L S
-  ─────────────────────────────────────────────────
+---
 
-   CLAUDE EYES              Screen intelligence
-   ░░░░░░░░░░░░░░░░░░░░    29K LOC. 64 MCP tools.
-   Python + SQLite          OCR capture, knowledge graph
-   REST API + MCP           Encrypted. Plugin system.
-   14 analysis engines      What Recall couldn't ship.
+## Tools & Languages
+
+```
+   ENGRAM                   Your computer's photographic memory
+   ░░░░░░░░░░░░░░░░░░░░    On-device screen OCR → full-text search,
+   Python · MIT             handed to any agent over REST or MCP.
+   pip install              Secrets redacted before write. No
+   engram-memory            screenshots stored. Nothing leaves the box.
+                            What Recall promised, built local-first.
 
    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
    AEON                     Formal verification
-   ░░░░░░░░░░░░░░░░        73 engines, 22 cybersecurity
-   Python + Z3 SMT          Multi-language static analysis
+   ░░░░░░░░░░░░░░░░        73 engines, 22 cybersecurity.
+   Python + Z3 SMT          Multi-language static analysis.
    85K+ lines               Catches what tests miss.
 
    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
    CONSTRUCTIONAI           Domain LLM
-   ░░░░░░░░░░░░░░          Fine-tuned Llama 3.1 8B
-   106K training examples   Real project data
-   Ollama + RunPod          Construction estimation
+   ░░░░░░░░░░░░░░          Fine-tuned Llama 3.1 8B on 106K
+   Ollama + RunPod          real-project examples. Construction
+                            estimation that knows the trade.
 
    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-   WOS                      Linux distribution
-   ░░░░░░░░░░░░░░░░        Nobara-based, AI-native
-   Rust + Lua               Gaming + cybersecurity + AI
-   Custom AI terminal       Fine-tuned shell assistant
+   G-RUMP                   AI coding agent for macOS
+   ░░░░░░░░░░░░░░          54K lines of Swift. Multi-model,
+   Swift                    100+ tools, MCP integration.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+   WOS                      AI-native Linux distribution
+   ░░░░░░░░░░░░░░░░        Nobara-based. Gaming + cybersecurity
+   Rust + Lua               + AI. Fine-tuned shell assistant.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+   DRIFTLANDS               Survival crafting game
+   ░░░░░░░░░░░              Rust + Bevy ECS. Procedural worlds,
+   Rust                     combat, crafting, dungeons. 27K lines.
 ```
 
 ---
@@ -103,18 +126,18 @@
                     ▼
    ┌────────── FairTradeWorker ──────────┐
    │                │                     │
-   │          FTW Realtime          FTW Mobile
-   │        (Kotlin/Spring)       (React Native)
+   │           ftw-svc              FTW Mobile
+   │         (Java/Spring)        (React Native)
    │
-   │  powers
+   │  shares stack with
    ▼
   MsHomePros
   (client platform)
 
 
-  Claude Eyes ─── context ───► every session I open
+  Engram ──────── feeds context ─► every agent session I open
 
-  AEON ────────── verifies ─► all of the above
+  Tessera ─────── writes the agents ─► AEON ─── verifies ─► all of it
 ```
 
 ---
@@ -124,8 +147,8 @@
 ```
   Python         ████████████████████████  AI, tools, verification
   TypeScript     ██████████████████        Web, marketplace, mobile
-  Rust           ████████████              Game engine, OS, compilers
-  Kotlin         ████████                  Real-time backend
+  Rust           ████████████              Game engine, OS, languages
+  Java/Kotlin    ████████                  Real-time backend
   Swift          ██████                    macOS native
   Lua            ████                      OS scripting, AI shell
 ```
@@ -133,7 +156,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bevy](https://img.shields.io/badge/Bevy-232326?style=flat-square&logo=bevy&logoColor=white)
@@ -144,9 +167,9 @@
 
 ## How I Build
 
-I work with AI as a native tool. Claude is my primary build partner. Codex, Gemini, and MiniMax when a problem benefits from multiple perspectives. 70+ custom skills that turn Claude Code into a domain-specific builder for whatever I'm working on.
+I work with AI as a native tool. Claude is my primary build partner — Codex, Gemini, and MiniMax when a problem benefits from more than one perspective. 70+ custom skills turn Claude Code into a domain-specific builder for whatever's in front of me.
 
-The construction background gives me project management instincts, cost awareness, and a bias toward shipping over perfecting. The AI gives me reach across stacks I couldn't have learned one at a time.
+The construction background gives me project-management instincts, cost awareness, and a bias toward shipping over perfecting. The AI gives me reach across stacks I couldn't have learned one at a time.
 
 ```
   ┌─────────────────────────────────────────────────┐
@@ -167,8 +190,9 @@ The construction background gives me project management instincts, cost awarenes
 ---
 
 <p align="center">
-  <b>Strata Software Group</b><br>
-  Mississippi<br>
+  <b>Walt Builds</b><br>
+  Websites · SEO · AI for small business<br>
+  Mississippi · jamesburge.mcm@gmail.com<br>
   <br>
-  <sub>If you're hiring, building in construction tech, or curious what solo devs can do with AI — reach out.</sub>
+  <sub>If you're hiring, building in construction tech, or curious what one dev can do with AI — reach out.</sub>
 </p>
