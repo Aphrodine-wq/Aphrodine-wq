@@ -101,18 +101,6 @@
    G-RUMP                   AI coding agent for macOS
    ░░░░░░░░░░░░░░          54K lines of Swift. Multi-model,
    Swift                    100+ tools, MCP integration.
-
-   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-
-   WOS                      AI-native Linux distribution
-   ░░░░░░░░░░░░░░░░        Nobara-based. Gaming + cybersecurity
-   Rust + Lua               + AI. Fine-tuned shell assistant.
-
-   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-
-   DRIFTLANDS               Survival crafting game
-   ░░░░░░░░░░░              Rust + Bevy ECS. Procedural worlds,
-   Rust                     combat, crafting, dungeons. 27K lines.
 ```
 
 ---
@@ -147,10 +135,9 @@
 ```
   Python         ████████████████████████  AI, tools, verification
   TypeScript     ██████████████████        Web, marketplace, mobile
-  Rust           ████████████              Game engine, OS, languages
+  Rust           ████████████              Runtime, tooling, automation
   Java/Kotlin    ████████                  Real-time backend
   Swift          ██████                    macOS native
-  Lua            ████                      OS scripting, AI shell
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -159,7 +146,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bevy](https://img.shields.io/badge/Bevy-232326?style=flat-square&logo=bevy&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
@@ -176,7 +162,7 @@ The construction background gives me project-management instincts, cost awarenes
   │                                                  │
   │   35 projects                                    │
   │   3.6 million lines of code                      │
-  │   8 languages                                    │
+  │   7 languages                                    │
   │   1 fine-tuned model (106K examples)             │
   │   10 months                                      │
   │                                                  │
