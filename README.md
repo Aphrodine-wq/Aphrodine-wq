@@ -12,7 +12,7 @@
                  \/__/        \/__/         \/__/
 ```
 
-> **James Walton** — Construction estimator turned developer. 10 months. 35 projects. 3.6M lines. AI as a build partner.
+> **James Burge** — Construction estimator turned developer. 10 months. 35 projects. 3.6M lines. AI as a build partner.
 
 ---
 
@@ -48,8 +48,8 @@
    ░░░░░░░░░░░░░░░░░░░░    Homeowners post, contractors bid.
    Next.js + Java/Spring    No lead fees. Flat subscription.
    React Native mobile      QuickBooks-native payments.
-   Custom AI estimation     Real-time bidding over WebSockets.
-   Mississippi-first        iOS app in App Store review.
+   Custom AI estimation     Mobile in final pre-launch hardening.
+   Mississippi-first        Oxford, MS pilot market.
 ```
 
 ---
