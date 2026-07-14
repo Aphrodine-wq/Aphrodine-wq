@@ -176,9 +176,9 @@ The construction background gives me project-management instincts, cost awarenes
 ---
 
 <p align="center">
-  <b>Walt Builds</b><br>
+  <b><a href="https://waltbuilds.com">Walt Builds</a></b><br>
   Websites · SEO · AI for small business<br>
-  Mississippi · jamesburge.mcm@gmail.com<br>
+  <a href="https://waltbuilds.com">waltbuilds.com</a> · Mississippi · jamesburge.mcm@gmail.com<br>
   <br>
   <sub>If you're hiring, building in construction tech, or curious what one dev can do with AI — reach out.</sub>
 </p>
