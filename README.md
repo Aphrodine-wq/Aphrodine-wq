@@ -12,7 +12,7 @@
                  \/__/        \/__/         \/__/
 ```
 
-> **James Burge** — Construction estimator turned developer. 10 months. 35 projects. 3.6M lines. AI as a build partner.
+> **James Burge** — Construction estimator turned developer. A year in. Dozens of projects. AI as a build partner.
 
 ---
 
@@ -35,20 +35,27 @@
 ## Building Now
 
 ```
-   TESSERA                  A programming language for AI agents
-   ░░░░░░░░░░░░░░░░░░░░    Write agents in .t.md files. The compiler
-   Python                   verifies them with AEON, persists their
-   Markdown-native          knowledge to a local fact store, and runs
-   AEON-verified            them on real LLM / LangChain / PyTorch
-   TSON wire format         backends. ~36% fewer tokens on the wire.
+   HUNT TIME                Hunting land management app
+   ░░░░░░░░░░░░░░░░░░░░    Track stands, trails, camera locations.
+   Next.js web              Log hunts, observations, weather.
+   Swift iOS                Share land access with hunting groups.
+   Vercel backend           Mapping + photo journals for hunters
+   hunttime.app             who take it seriously.
 
    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-   FAIRTRADEWORKER          Construction marketplace
+   LIFE BALANCE OXFORD      Client: wellness practice site
+   ░░░░░░░░░░░░░░░░░░░░    Full rebrand and build for local
+   Next.js + Vercel         Oxford, MS wellness practice.
+   SEO-optimized            Booking integration, content CMS,
+                            mobile-first responsive design.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+   FAIRTRADEWORKER          Construction marketplace (ongoing)
    ░░░░░░░░░░░░░░░░░░░░    Homeowners post, contractors bid.
    Next.js + Java/Spring    No lead fees. Flat subscription.
    React Native mobile      QuickBooks-native payments.
-   Custom AI estimation     Mobile in final pre-launch hardening.
    Mississippi-first        Oxford, MS pilot market.
 ```
 
@@ -75,12 +82,19 @@
 ## Tools & Languages
 
 ```
+   TESSERA                  A programming language for AI agents
+   ░░░░░░░░░░░░░░░░░░░░    Write agents in .t.md files. Compiler
+   Python                   verifies with AEON, persists knowledge
+   Markdown-native          to local fact store, runs on LLM /
+   AEON-verified            LangChain / PyTorch backends.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
    ENGRAM                   Your computer's photographic memory
    ░░░░░░░░░░░░░░░░░░░░    On-device screen OCR → full-text search,
    Python · MIT             handed to any agent over REST or MCP.
    pip install              Secrets redacted before write. No
    engram-memory            screenshots stored. Nothing leaves the box.
-                            What Recall promised, built local-first.
 
    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
@@ -108,24 +122,24 @@
 ## How It Connects
 
 ```
-                ConstructionAI
-                    │
-                    │ powers estimation
-                    ▼
-   ┌────────── FairTradeWorker ──────────┐
-   │                │                     │
-   │           ftw-svc              FTW Mobile
-   │         (Java/Spring)        (React Native)
-   │
-   │  shares stack with
-   ▼
-  MsHomePros
-  (client platform)
-
-
-  Engram ──────── feeds context ─► every agent session I open
-
-  Tessera ─────── writes the agents ─► AEON ─── verifies ─► all of it
+  Hunt Time ─────────────────────────────────────────┐
+  (web + iOS + backend)                               │
+        │                                             │
+        │ current focus                               │
+        ▼                                             │
+  Life Balance Oxford ────── client work ─────────────┤
+                                                      │
+  FairTradeWorker ◄──── ConstructionAI                │
+  (ongoing product)         │                         │
+        │                   │ powers estimation       │
+        │                   │                         │
+   shares stack with        │                         │
+        ▼                   ▼                         │
+     MsHomePros ────────────────────────────────────  │
+                                                      │
+  Engram ──────── feeds context ─► every agent session│
+                                                      │
+  Tessera ─────── writes agents ─► AEON ─── verifies ─┘
 ```
 
 ---
@@ -160,11 +174,10 @@ The construction background gives me project-management instincts, cost awarenes
 ```
   ┌─────────────────────────────────────────────────┐
   │                                                  │
-  │   35 projects                                    │
-  │   3.6 million lines of code                      │
+  │   Dozens of projects                             │
   │   7 languages                                    │
   │   1 fine-tuned model (106K examples)             │
-  │   10 months                                      │
+  │   A year                                         │
   │                                                  │
   │   Not because I'm fast.                          │
   │   Because the tools changed                      │
