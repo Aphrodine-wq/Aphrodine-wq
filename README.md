@@ -32,89 +32,58 @@
 
 ---
 
-## Building Now
+## Shipping Now
 
 ```
-   HUNT TIME                Hunting land management app
-   ░░░░░░░░░░░░░░░░░░░░    Track stands, trails, camera locations.
-   Next.js web              Log hunts, observations, weather.
-   Swift iOS                Share land access with hunting groups.
-   Vercel backend           Mapping + photo journals for hunters
-   hunttime.app             who take it seriously.
+   HUNT TIME                Hunting land management
+   ░░░░░░░░░░░░░░░░░░░░    Track stands, trails, cameras.
+   Strata-Software-Group    Log hunts, observations, weather.
+   Web + iOS + Android      Share land access with your group.
+   hunttime.app             Live at hunttime.app / api.hunttime.app
 
    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-   LIFE BALANCE OXFORD      Client: wellness practice site
-   ░░░░░░░░░░░░░░░░░░░░    Full rebrand and build for local
-   Next.js + Vercel         Oxford, MS wellness practice.
-   SEO-optimized            Booking integration, content CMS,
-                            mobile-first responsive design.
-
-   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-
-   FAIRTRADEWORKER          Construction marketplace (ongoing)
-   ░░░░░░░░░░░░░░░░░░░░    Homeowners post, contractors bid.
-   Next.js + Java/Spring    No lead fees. Flat subscription.
-   React Native mobile      QuickBooks-native payments.
-   Mississippi-first        Oxford, MS pilot market.
+   LIFE BALANCE OXFORD      Client: wellness practice
+   ░░░░░░░░░░░░░░░░░░░░    Full site build for Oxford, MS
+   Next.js + Vercel         wellness practice. Production-ready.
+   lifebalanceoxford.com    Booking, CMS, mobile-first.
 ```
 
 ---
 
-## Products
+## Second Pillar
 
 ```
-   FAIRTRADEWORKER          Two-sided construction marketplace
-   ░░░░░░░░░░░░░░░░░░░░    Next.js web · React Native mobile
-                            Java/Spring backend · live material
-                            price index · operator dashboard.
+   FAIRTRADEWORKER          Construction marketplace
+   ░░░░░░░░░░░░░░░░░░░░    Homeowners post, contractors bid.
+   Strata-Software-Group    No lead fees. Flat subscription.
+   Next.js + Java/Spring    QuickBooks-native payments.
+   React Native mobile      Oxford, MS pilot market.
+```
 
-   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+---
 
+## Client Work
+
+```
    MSHOMEPROS               Contractor platform
    ░░░░░░░░░░░░░            Built for MHP Construction,
-   Next.js                  Oxford, Mississippi. First real
-   Deployed on Vercel       customer. Migrated off WordPress.
+   Next.js + Vercel         Oxford, Mississippi. First real
+                            paying customer.
 ```
 
 ---
 
-## Tools & Languages
+## Open Source
 
 ```
-   TESSERA                  A programming language for AI agents
-   ░░░░░░░░░░░░░░░░░░░░    Write agents in .t.md files. Compiler
-   Python                   verifies with AEON, persists knowledge
-   Markdown-native          to local fact store, runs on LLM /
-   AEON-verified            LangChain / PyTorch backends.
-
-   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-
-   ENGRAM                   Your computer's photographic memory
-   ░░░░░░░░░░░░░░░░░░░░    On-device screen OCR → full-text search,
-   Python · MIT             handed to any agent over REST or MCP.
-   pip install              Secrets redacted before write. No
-   engram-memory            screenshots stored. Nothing leaves the box.
-
-   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-
-   AEON                     Formal verification
-   ░░░░░░░░░░░░░░░░        73 engines, 22 cybersecurity.
-   Python + Z3 SMT          Multi-language static analysis.
-   85K+ lines               Catches what tests miss.
-
-   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-
-   CONSTRUCTIONAI           Domain LLM
-   ░░░░░░░░░░░░░░          Fine-tuned Llama 3.1 8B on 106K
-   Ollama + RunPod          real-project examples. Construction
-                            estimation that knows the trade.
-
-   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-
    G-RUMP                   AI coding agent for macOS
-   ░░░░░░░░░░░░░░          54K lines of Swift. Multi-model,
-   Swift                    100+ tools, MCP integration.
+   ░░░░░░░░░░░░░░          Multi-model, 100+ tools, MCP.
+   Swift                    Last push mid-July 2026.
+
+   TESSERA                  Agent language · Markdown-native
+   GLASSBOX                 Transparent AI observability
+   TERMPAPER                Terminal session capture
 ```
 
 ---
@@ -122,24 +91,19 @@
 ## How It Connects
 
 ```
-  Hunt Time ─────────────────────────────────────────┐
-  (web + iOS + backend)                               │
-        │                                             │
-        │ current focus                               │
-        ▼                                             │
-  Life Balance Oxford ────── client work ─────────────┤
-                                                      │
-  FairTradeWorker ◄──── ConstructionAI                │
-  (ongoing product)         │                         │
-        │                   │ powers estimation       │
-        │                   │                         │
-   shares stack with        │                         │
-        ▼                   ▼                         │
-     MsHomePros ────────────────────────────────────  │
-                                                      │
-  Engram ──────── feeds context ─► every agent session│
-                                                      │
-  Tessera ─────── writes agents ─► AEON ─── verifies ─┘
+  ┌─────────────────────────────────────────────────┐
+  │  STRATA SOFTWARE GROUP                           │
+  │  ────────────────────                            │
+  │  Hunt Time        (live product)                 │
+  │  FairTradeWorker  (marketplace stack)            │
+  └─────────────────────────────────────────────────┘
+                        │
+         ┌──────────────┴──────────────┐
+         ▼                              ▼
+   Client Work                    Personal Brand
+   ─────────────                  ──────────────
+   Life Balance Oxford            waltbuilds.com
+   MsHomePros                     waltburge.com
 ```
 
 ---
@@ -174,10 +138,9 @@ The construction background gives me project-management instincts, cost awarenes
 ```
   ┌─────────────────────────────────────────────────┐
   │                                                  │
+  │   A year in                                      │
   │   Dozens of projects                             │
-  │   7 languages                                    │
-  │   1 fine-tuned model (106K examples)             │
-  │   A year                                         │
+  │   Products live in production                    │
   │                                                  │
   │   Not because I'm fast.                          │
   │   Because the tools changed                      │
@@ -189,9 +152,9 @@ The construction background gives me project-management instincts, cost awarenes
 ---
 
 <p align="center">
-  <b><a href="https://waltbuilds.com">Walt Builds</a></b><br>
-  Websites · SEO · AI for small business<br>
-  <a href="https://waltbuilds.com">waltbuilds.com</a> · Mississippi · jamesburge.mcm@gmail.com<br>
+  <b><a href="https://waltbuilds.com">Walt Builds</a></b> · <b><a href="https://strata-software-group.com">Strata Software Group</a></b><br>
+  Websites · Apps · AI for small business<br>
+  <a href="https://waltbuilds.com">waltbuilds.com</a> · <a href="https://waltburge.com">waltburge.com</a> · Mississippi<br>
   <br>
   <sub>If you're hiring, building in construction tech, or curious what one dev can do with AI — reach out.</sub>
 </p>
