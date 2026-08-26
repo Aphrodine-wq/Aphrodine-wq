@@ -77,6 +77,14 @@
 ## Open Source
 
 ```
+   OMACAST                  Screen casting to Chromecast / Google TV
+   ░░░░░░░░░░░░░░░░░░░░    Cast v2 + Cast Streaming sender written
+   Rust                     from scratch — RTP, AES-CTR frame
+                            crypto, RTCP, mDNS discovery. Wayland
+                            daemon + macOS menu bar app.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
    G-RUMP                   AI coding agent for macOS
    ░░░░░░░░░░░░░░          Multi-model, 100+ tools, MCP.
    Swift                    Last push mid-July 2026.
