@@ -1,60 +1,184 @@
-# James Burge
+```
+     ___          ___          ___          ___          ___
+    /\  \        /\  \        /\__\        /\  \        /\  \
+    \:\  \      /::\  \      /::|  |      /::\  \      /::\  \
+  __ \:\  \    /:/\:\  \    /:|:|  |      \:\:\  \    /\:\:\  \
+ /\_\ \:\  \  /::\~\:\  \  /:/|:|__|__   _____\:\  \  \:\:\:\  \
+ \/__/\:\__\ /:/\:\ \:\__\/:/ |::::\__\ /::::::::\__\  \:\:\:\__\
+      \:\__\ \/__\:\/:/  /\/__/~~/:/  / \:\~~\~~\/__/   \:\:\/__/
+       \/__/      \::/  /       /:/  /   \:\  \          \:\/__/
+                  /:/  /       /:/  /     \:\  \          \/__/
+                 /:/  /       /:/  /       \:\__\
+                 \/__/        \/__/         \/__/
+```
 
-**Construction estimator turned software developer. Oxford, Mississippi.**
-
-I run [Walt Builds](https://waltbuilds.com) — websites and software for local businesses — and ship my own products alongside it. AI is the build partner; the judgment is mine.
-
-[waltbuilds.com](https://waltbuilds.com) · [hunttime.app](https://hunttime.app) · [jamesburge.mcm@gmail.com](mailto:jamesburge.mcm@gmail.com)
+> **James Burge** — Construction estimator turned developer. A year in. Dozens of projects. AI as a build partner.
 
 ---
 
-> I came from job sites, not computer science. Estimating costs, managing crews, building things that stand up. Now I write software the same way — scope it, plan it, ship it. The AI didn't replace the work. It multiplied what one person can reach.
+```
+  ┌─────────────────────────────────────────────────┐
+  │                                                  │
+  │   I came from job sites, not computer science.   │
+  │   Estimating costs, managing crews, building     │
+  │   things that stand up. Now I write software     │
+  │   the same way — scope it, plan it, ship it.     │
+  │                                                  │
+  │   The AI didn't replace the work.                │
+  │   It multiplied what one person can reach.       │
+  │                                                  │
+  └─────────────────────────────────────────────────┘
+```
 
 ---
 
-## Now
+## Shipping Now
 
-**[Hunt Time](https://hunttime.app)** — hunting lease management: stand reservations, club rosters, dues. Web, iOS, and Android; the iOS app went from idea to App Store submission in 17 days. Free for small camps.
+```
+   HUNT TIME                Hunting lease management
+   ░░░░░░░░░░░░░░░░░░░░    Stand reservations, club rosters,
+   Strata-Software-Group    dues. Free for small camps.
+   Web + iOS + Android      iOS: idea → App Store submission
+   hunttime.app             in 17 days. Live at hunttime.app
 
-## Products
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-| | | |
-|---|---|---|
-| **[Hunt Time](https://hunttime.app)** | Stand reservations, rosters, and dues for hunting clubs | Web · iOS · Android |
-| **[FairTradeWorker](https://www.fairtradeworker.com)** | Construction marketplace — homeowners post, contractors bid. No lead fees. QuickBooks-native payments | Next.js · Spring · React Native |
+   LIFE BALANCE OXFORD      Client: wellness practice
+   ░░░░░░░░░░░░░░░░░░░░    Full site build for Oxford, MS
+   Next.js + Vercel         wellness practice. Production-ready.
+   lifebalanceoxford.com    Booking, CMS, mobile-first.
+```
 
-## Client work
+<sub>→ <a href="https://hunttime.app">hunttime.app</a> · <a href="https://www.lifebalanceoxford.com">lifebalanceoxford.com</a></sub>
 
-Live sites for real Mississippi businesses, built under [Walt Builds](https://waltbuilds.com):
+---
 
-**[Lips In the Sipp](https://lipsinthesipp.vercel.app)** (med spa) · **[Life Balance Oxford](https://www.lifebalanceoxford.com)** (behavioral health) · **[MHP Construction](https://northmshomepros.com)** · **[Evergreens RV Park](https://evergreens-rvpark.com)** · **[Prime Proxy Co](https://www.primeproxyco.com)**
+## Second Pillar
 
-## Open source
+```
+   FAIRTRADEWORKER          Construction marketplace
+   ░░░░░░░░░░░░░░░░░░░░    Homeowners post, contractors bid.
+   Strata-Software-Group    No lead fees. Flat subscription.
+   Next.js + Java/Spring    QuickBooks-native payments.
+   React Native mobile      Oxford, MS pilot market.
+```
 
-| Repo | What it is | |
-|---|---|---|
-| **[G-Rump](https://github.com/Aphrodine-wq/G-Rump)** | Coding harness for macOS — native Swift agent loop, 153 local tools, persistent memory ([g-rump.com](https://www.g-rump.com)) | Swift |
-| **[omacast](https://github.com/Aphrodine-wq/omacast)** | Native screen casting to Chromecast / Google TV — Cast v2 + Cast Streaming sender written from scratch: RTP, AES-CTR frame crypto, RTCP, mDNS discovery. Wayland daemon + macOS menu bar app | Rust |
-| **[termpaper](https://github.com/Aphrodine-wq/termpaper)** | Wallpaper Engine for the terminal — animated truecolor scenes behind your prompt | Rust |
-| **[tson](https://github.com/Aphrodine-wq/tson)** | Token-dense, deterministic interchange format for AI agents — the schema is the decoder | Python |
-| **[tessera](https://github.com/Aphrodine-wq/tessera)** | A markdown-native programming language for AI agents | Python |
-| **[glassbox](https://github.com/Aphrodine-wq/glassbox)** | Governance trust-layer for AI agents — a governed decision, rendered to a human at the moment of action | Rust |
-| **[engram](https://github.com/Aphrodine-wq/engram)** | Local-first screen memory — searchable OCR of everything on screen, nothing leaves your machine | Python |
+---
 
-## How I build
+## Client Work
 
-Claude is the primary build partner — Codex, Gemini, and MiniMax when a problem benefits from more than one perspective. 70+ custom skills turn the agent into a domain-specific builder for whatever's in front of me.
+```
+   MSHOMEPROS               Contractor platform
+   ░░░░░░░░░░░░░            Built for MHP Construction,
+   Next.js + Vercel         Oxford, Mississippi. First real
+                            paying customer.
 
-The construction background supplies the project-management instincts, the cost awareness, and the bias toward shipping over perfecting. The AI supplies reach across stacks nobody learns one at a time.
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-## The numbers
+   LIPS IN THE SIPP         Med spa · Oxford, MS
+   ░░░░░░░░░░░░░░░░        Physician-led med spa. Priced
+   Static + Vercel          treatment menus, Vagaro booking,
+   lipsinthesipp.com        Cherry financing. Live 08/2026.
+```
 
-A year in · 2,500+ contributions in the last 12 months · 75 public repos · 35+ projects · 7 languages · 1 fine-tuned model (106K examples)
+<sub>→ <a href="https://northmshomepros.com">northmshomepros.com</a> · <a href="https://lipsinthesipp.vercel.app">lipsinthesipp.vercel.app</a> · <a href="https://evergreens-rvpark.com">evergreens-rvpark.com</a></sub>
+
+---
+
+## Open Source
+
+```
+   OMACAST                  Screen casting to Chromecast / Google TV
+   ░░░░░░░░░░░░░░░░░░░░    Cast v2 + Cast Streaming sender written
+   Rust                     from scratch — RTP, AES-CTR frame
+                            crypto, RTCP, mDNS discovery. Wayland
+                            daemon + macOS menu bar app.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+   G-RUMP                   AI coding agent for macOS
+   ░░░░░░░░░░░░░░          Multi-model, 100+ tools, MCP.
+   Swift                    Last push mid-July 2026.
+
+   TESSERA                  Agent language · Markdown-native
+   GLASSBOX                 Transparent AI observability
+   TERMPAPER                Wallpaper Engine for the terminal
+   TSON                     Agent-native data format · schema = decoder
+   ENGRAM                   Local-first screen memory · searchable OCR
+```
+
+<sub>→ <a href="https://github.com/Aphrodine-wq/omacast">omacast</a> · <a href="https://github.com/Aphrodine-wq/G-Rump">G-Rump</a> · <a href="https://github.com/Aphrodine-wq/tessera">tessera</a> · <a href="https://github.com/Aphrodine-wq/glassbox">glassbox</a> · <a href="https://github.com/Aphrodine-wq/termpaper">termpaper</a> · <a href="https://github.com/Aphrodine-wq/tson">tson</a> · <a href="https://github.com/Aphrodine-wq/engram">engram</a></sub>
+
+---
+
+## How It Connects
+
+```
+  ┌─────────────────────────────────────────────────┐
+  │  STRATA SOFTWARE GROUP                           │
+  │  ────────────────────                            │
+  │  Hunt Time        (live product)                 │
+  │  FairTradeWorker  (marketplace stack)            │
+  └─────────────────────────────────────────────────┘
+                        │
+         ┌──────────────┴──────────────┐
+         ▼                              ▼
+   Client Work                    Personal Brand
+   ─────────────                  ──────────────
+   Life Balance Oxford            waltbuilds.com
+   MsHomePros                     waltburge.com
+```
+
+---
+
+## The Stack
+
+```
+  Python         ████████████████████████  AI, tools, verification
+  TypeScript     ██████████████████        Web, marketplace, mobile
+  Rust           ████████████              Runtime, tooling, automation
+  Java/Kotlin    ████████                  Real-time backend
+  Swift          ██████                    macOS native
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+---
+
+## How I Build
+
+I work with AI as a native tool. Claude is my primary build partner — Codex, Gemini, and MiniMax when a problem benefits from more than one perspective. 70+ custom skills turn Claude Code into a domain-specific builder for whatever's in front of me.
+
+The construction background gives me project-management instincts, cost awareness, and a bias toward shipping over perfecting. The AI gives me reach across stacks I couldn't have learned one at a time.
+
+```
+  ┌─────────────────────────────────────────────────┐
+  │                                                  │
+  │   A year in                                      │
+  │   Dozens of projects                             │
+  │   Products live in production                    │
+  │   2,500+ contributions · 75 public repos         │
+  │                                                  │
+  │   Not because I'm fast.                          │
+  │   Because the tools changed                      │
+  │   what one person can do.                        │
+  │                                                  │
+  └─────────────────────────────────────────────────┘
+```
 
 ---
 
 <p align="center">
-  <b>Software should Stay Local.</b><br>
-  <a href="https://waltbuilds.com">waltbuilds.com</a> — websites, software, and AI for small business · Mississippi<br>
-  <sub>Hiring, building in construction tech, or curious what one dev can do with AI? <a href="https://waltbuilds.com/book">Book a call.</a></sub>
+  <b><a href="https://waltbuilds.com">Walt Builds</a></b> · <b><a href="https://strata-software-group.com">Strata Software Group</a></b><br>
+  Websites · Apps · AI for small business<br>
+  <a href="https://waltbuilds.com">waltbuilds.com</a> · <a href="https://waltburge.com">waltburge.com</a> · Mississippi<br>
+  <br>
+  <sub>If you're hiring, building in construction tech, or curious what one dev can do with AI — reach out.</sub>
 </p>
