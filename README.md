@@ -53,14 +53,19 @@
 
 ---
 
-## Second Pillar
+## Intake & Documents
 
 ```
-   FAIRTRADEWORKER          Construction marketplace
-   ░░░░░░░░░░░░░░░░░░░░    Homeowners post, contractors bid.
-   Strata-Software-Group    No lead fees. Flat subscription.
-   Next.js + Java/Spring    QuickBooks-native payments.
-   React Native mobile      Oxford, MS pilot market.
+   LIFE BALANCE OXFORD      Clinic intake
+   ░░░░░░░░░░░░░░░░░░░░    Nine-step patient intake. Per-person
+   React + Neon             staff logins, intake review, and a
+                            PDF of every submission.
+
+   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+   SIMMONS SURVEY           Staff inbox
+   ░░░░░░░░░░░░░░░░░░░░    Requests land in one inbox. Per-person
+   Astro + Neon             accounts, PDF preview, CSV export.
 ```
 
 ---
@@ -96,10 +101,6 @@
 
    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-   G-RUMP                   AI coding agent for macOS
-   ░░░░░░░░░░░░░░          Multi-model, 100+ tools, MCP.
-   Swift                    Last push mid-July 2026.
-
    TESSERA                  Agent language · Markdown-native
    GLASSBOX                 Transparent AI observability
    TERMPAPER                Wallpaper Engine for the terminal
@@ -107,7 +108,7 @@
    ENGRAM                   Local-first screen memory · searchable OCR
 ```
 
-<sub>→ <a href="https://github.com/Aphrodine-wq/omacast">omacast</a> · <a href="https://github.com/Aphrodine-wq/G-Rump">G-Rump</a> · <a href="https://github.com/Aphrodine-wq/tessera">tessera</a> · <a href="https://github.com/Aphrodine-wq/glassbox">glassbox</a> · <a href="https://github.com/Aphrodine-wq/termpaper">termpaper</a> · <a href="https://github.com/Aphrodine-wq/tson">tson</a> · <a href="https://github.com/Aphrodine-wq/engram">engram</a></sub>
+<sub>→ <a href="https://github.com/Aphrodine-wq/omacast">omacast</a> · <a href="https://github.com/Aphrodine-wq/tessera">tessera</a> · <a href="https://github.com/Aphrodine-wq/glassbox">glassbox</a> · <a href="https://github.com/Aphrodine-wq/termpaper">termpaper</a> · <a href="https://github.com/Aphrodine-wq/tson">tson</a> · <a href="https://github.com/Aphrodine-wq/engram">engram</a></sub>
 
 ---
 
@@ -118,7 +119,6 @@
   │  STRATA SOFTWARE GROUP                           │
   │  ────────────────────                            │
   │  Hunt Time        (live product)                 │
-  │  FairTradeWorker  (marketplace stack)            │
   └─────────────────────────────────────────────────┘
                         │
          ┌──────────────┴──────────────┐
@@ -164,7 +164,7 @@ The construction background gives me project-management instincts, cost awarenes
   │   A year in                                      │
   │   Dozens of projects                             │
   │   Products live in production                    │
-  │   2,500+ contributions · 75 public repos         │
+  │   2,500+ contributions · 28 public repos         │
   │                                                  │
   │   Not because I'm fast.                          │
   │   Because the tools changed                      │
